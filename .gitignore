@@ -3,3 +3,4 @@
 /dist/*
 example.rivet-project
 /config/
+.vscode/launch_sample.json
